@@ -1,0 +1,61 @@
+{
+  "experiences": [
+    {
+      "company": "L&TTS",
+      "link": "https://www.ltts.com/",
+      "title": "Software Developer and Consultant",
+      "duration": "Feb 2021 - Jun 2023",
+      "desc": [
+        "Developed a comprehensive Event Booking Application using Java and Spring Boot. This project showcased your proficiency in Java and Spring Boot technologies and your ability to create a real-world, feature-rich application.",
+        "Designed and built client-side routing using react-router-dom",
+        "Developed back-end staff in Node.js and Express.js, facilitating data storage and retrieval using MongoDB and Mongoose.",
+        "Used in development: Node, Express, Mongoose, JWT, REST APIs, CORS, Helmet, Joi, Multer, Javascript, React, Bootstrap, CSS, JSX,  Git and Github "
+      ]
+    },
+    {},
+    {
+      "company": "V2Soft",
+      "link": "https://www.v2soft.com/",
+      "title": "Java Developer",
+      "duration": "Sep 2021 - Seo 2022",
+      "desc": [
+        "Developed a comprehensive Event Booking Application using Java and Spring Boot. This project showcased your proficiency in Java and Spring Boot technologies and your ability to create a real-world, feature-rich application.",
+        "Designed and implemented the application's core functionality for event creation, booking, and management.",
+        "AUtilized Spring Boot to create a robust and scalable backend.ssisted in testing, to ensure application reliability.",
+        "Implemented user authentication and authorization using Spring Security, ensuring data security.",
+        "Integrated with databases, optimizing performance and data retrieval using Hibernate and JPA.",
+        "Employed RESTful APIs to enable seamless communication between frontend and backend components.",
+        "Ensured efficient handling of concurrent bookings through multithreading.",
+        "Implemented error handling and exception management strategies to enhance application reliability.",
+        "Deployed the application on AWS, leveraging EC2 instances and RDS for database management.",
+        "Utilized AWS CloudWatch for monitoring and maintaining application health."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Ecommerce",
+      "image": "./images/project_1.png",
+      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "skills": [
+        "React",
+        "Express",
+        "MongoDB"
+      ],
+      "github": "/",
+      "link": ""
+    },
+    {
+      "title": "Spotify",
+      "image": "./images/project_2.png",
+      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "skills": [
+        "React",
+        "Express",
+        "MongoDB"
+      ],
+      "github": "/",
+      "link": "/"
+    }
+  ]
+}
