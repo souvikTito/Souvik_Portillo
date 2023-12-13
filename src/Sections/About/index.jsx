@@ -4,7 +4,7 @@ import styles from "./styles.module.css";
 function About() {
   return (
     <section className="pt-3" id="about">
-      <Heading index="01" heading="About Me" />
+      <Heading index="01" heading="More on me!" />
       <div className={styles.container}>
         <div className={styles.left}>
           <p className={styles.desc}>Hello,</p>
@@ -19,15 +19,25 @@ function About() {
             I specialize in architecting and developing intricate applications utilizing Spring Boot, MERN Stack, and Quarkus, ensuring a perfect blend of functionality and aesthetics.
           </p>
           <p className={styles.desc}>
-            What I find most rewarding about my work is the opportunity to solve
-            complex problems. I approach challenges with enthusiasm and a
-            detail-oriented mindset, ensuring that the solutions I provide are
-            not only effective but also efficient. The field of web development
-            is constantly evolving, and I'm committed to staying up-to-date with
-            the latest trends and best practices. Continuous learning is a
-            fundamental part of my professional journey, and I relish the
-            opportunity to expand my knowledge and skill set
+            Cloud Computing Virtuoso:            <br></br>
+            Extensive prowess in Amazon Web Services (AWS), deploying cloud-native solutions that are both robust and agile, optimizing business operations in the cloud era.
           </p>
+          <p className={styles.desc}>
+            Data Management Maestro:            <br></br>
+            Adept in database intricacies with MySQL and Datastax, I excel in sophisticated data modelling and strategic database design, ensuring data integrity and efficiency.
+          </p>
+          {/* <p className={styles.desc}>
+            API Architect:           <br></br>
+            A connoisseur of RESTful WebServices and API development, I am well-versed in creating seamless integrations and automations using Postman, Swagger, and Confluent Kafka.
+          </p>
+          <p className={styles.desc}>
+            Microservices Strategist:          <br></br>
+            Skilled in the art of microservices architecture, I leverage Apache Kafka for efficient message streaming, enhancing system responsiveness and scalability.
+          </p>
+          <p className={styles.desc}>
+            Front-End Aficionado:           <br></br>
+            Adept in HTML and CSS, I craft intuitive and visually appealing interfaces, ensuring an engaging user experience.
+          </p> */}
         </div>
         <div className={styles.right}>
           <img
