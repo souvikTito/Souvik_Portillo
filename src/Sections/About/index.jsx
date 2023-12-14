@@ -22,11 +22,11 @@ function About() {
             Cloud Computing Virtuoso:            <br></br>
             Extensive prowess in Amazon Web Services (AWS), deploying cloud-native solutions that are both robust and agile, optimizing business operations in the cloud era.
           </p>
-          <p className={styles.desc}>
+          {/* <p className={styles.desc}>
             Data Management Maestro:            <br></br>
             Adept in database intricacies with MySQL and Datastax, I excel in sophisticated data modelling and strategic database design, ensuring data integrity and efficiency.
           </p>
-          {/* <p className={styles.desc}>
+          <p className={styles.desc}>
             API Architect:           <br></br>
             A connoisseur of RESTful WebServices and API development, I am well-versed in creating seamless integrations and automations using Postman, Swagger, and Confluent Kafka.
           </p>
